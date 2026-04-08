@@ -18,3 +18,4 @@ Add this marketplace once on any device:
 | [jsphh-teaching](./jsphh-teaching) | Teaching design toolkit | teaching-manual-builder, sketch-note-ppt, ppt-creator |
 | [jsphh-writing](./jsphh-writing) | Writing & content toolkit | humanizer, humanizer-zh-tw, exstory, journal-to-md |
 | [jsphh-tools](./jsphh-tools) | Utility toolkit | gogcli, pdf-read-python, conversation-purger |
+| [taiwan-labor-law](./taiwan-labor-law) | 台灣勞動法規教學工具 | taiwan-labor-law-expertise + 3 commands |

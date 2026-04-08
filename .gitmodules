@@ -10,3 +10,6 @@
 [submodule "jsphh-tools"]
 	path = jsphh-tools
 	url = https://github.com/jsphh7124/jsphh-tools
+[submodule "taiwan-labor-law"]
+	path = taiwan-labor-law
+	url = https://github.com/jsphh7124/taiwan-labor-law
