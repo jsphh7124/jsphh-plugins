@@ -17,3 +17,4 @@ Add this marketplace once on any device:
 | [jsphh-academic](./jsphh-academic) | Academic research toolkit | academic-editor, content-research-writer, literature-review, scientific-critical-thinking, nlm-skill, social-psych-activity |
 | [jsphh-teaching](./jsphh-teaching) | Teaching design toolkit | teaching-manual-builder, sketch-note-ppt, ppt-creator |
 | [jsphh-writing](./jsphh-writing) | Writing & content toolkit | humanizer, humanizer-zh-tw, exstory, journal-to-md |
+| [jsphh-tools](./jsphh-tools) | Utility toolkit | gogcli, pdf-read-python, conversation-purger |

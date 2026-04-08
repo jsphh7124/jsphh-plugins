@@ -7,3 +7,6 @@
 [submodule "jsphh-writing"]
 	path = jsphh-writing
 	url = https://github.com/jsphh7124/jsphh-writing
+[submodule "jsphh-tools"]
+	path = jsphh-tools
+	url = https://github.com/jsphh7124/jsphh-tools
