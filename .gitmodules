@@ -4,3 +4,6 @@
 [submodule "jsphh-teaching"]
 	path = jsphh-teaching
 	url = https://github.com/jsphh7124/jsphh-teaching
+[submodule "jsphh-writing"]
+	path = jsphh-writing
+	url = https://github.com/jsphh7124/jsphh-writing
